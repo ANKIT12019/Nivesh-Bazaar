@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "ankit/niveshbazaar",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "Ankit\\niveshbazaar\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Nivesh Bazaar"
         }
     ],
     "require": {
